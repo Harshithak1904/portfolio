@@ -1,13 +1,11 @@
 export const contactsData = {
-    email: 'bitrasrinivaspavan@gmail.com',
-    phone: '+918555866173',
-    address: 'Chirala, Andhra Pradesh, India',
-    github: 'https://github.com/srinivaspavan73',
-    facebook: 'https://www.facebook.com/bitra.pavan.351',
-    linkedIn: 'https://www.linkedin.com/in/bitrapavankumar/',
-    twitter: 'https://twitter.com/srinivaspavan73',
-    instagram: 'https://www.instagram.com/srinivaspavan73/',
+    email: 'harshithak612@gmail.com',
+    phone:'+917019477255',
+    address: 'Bengaluru,Karnataka, India',
+    github: 'https://github.com/Harshithak1904',
+    linkedIn: 'https://www.linkedin.com/in/harshitha-k-949332293',
+    instagram: 'https://www.instagram.com/harshitha_krishnappa19?igsh=MXg3aDZsODJnazdjbA==',
     // medium: 'https://medium.com/@abusaid-bd',
     // stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
-    devUsername: "Bitra"
+    devUsername: "Harshitha"
 }

@@ -2,53 +2,36 @@
 // import seven from '../assets/svg/projects/seven.svg'
 // import six from '../assets/svg/projects/six.svg'
 // import face from '../assets/png/face.jpg'
-// import land from '../assets/png/land.jpg'
-import handloom from '../assets/png/handloom.jpg'
-import Votingapp from '../assets/png/Votingapp.png'
-import campushub from '../assets/png/campushub.png'
+ 
+import sign from '../assets/png/sign.jpg'
+import land from '../assets/png/land.png'
+
 
 export const projectsData = [
+    
+   
     {
         id: 1,
-        projectName: 'Voting App',
-        projectDesc: 'A secure web-based platform for conducting college elections, allowing students to log in, view candidates, and cast their votes online.',
-        tags: ['React', 'JavaScript', 'CSS', 'HTML'],
-        code: 'https://github.com/srinivaspavan73/Secure-Access',
-        demo: 'https://github.com/srinivaspavan73/Secure-Access',
-        image: Votingapp
-    },
-    {
-        id: 2,
-        projectName: 'CampusHub',
-        projectDesc: 'A web application that enables users to log in, browse and register for events, and collaborate on campus projects.',
-        tags: ['React', 'Node', 'Express', 'SQL', 'JavaScript'],
-        code: 'https://github.com/srinivaspavan73/Landlink',
-        demo: 'https://github.com/srinivaspavan73/Landlink',
-        image: campushub
-    },
-    {
-        id: 3,
-        projectName: 'WeaveQuest: Exclusive Handloom Saree Marketplace',
-        projectDesc: 'A dedicated online platform celebrating the tradition of handloom sarees, connecting artisans and enthusiasts in a vibrant marketplace.',
+        projectName: 'Sign Detection Language',
+        projectDesc: 'A secure web-cam which is used to detect the sign language effectively and help in sustainable education system. ',
         tags: ['React', 'CSS' , 'HTML'],
-        code: 'https://github.com/srinivaspavan73/Weaver-s-Loom',
-        demo: 'https://weavers-loom.netlify.app/',
-        image: handloom
-    }
+        code: 'https://github.com/Harshithak1904/SignLanguageDetectionDeepLearningProject',
+        image: sign
+    },
+
+  {
+     id: 2,
+     projectName: 'Lung Cancer Detection using CNN',
+     projectDesc: 'Lung cancer detection using Convolutional Neural Networks (CNN) involves automatically analyzing medical imaging data, such as CT scans or X-rays, to identify and classify potential cancerous lesions with high accuracy and efficiency.',
+
+     tags: ['Python','CNN','flask'],
+     image: land
+ }
+
 ]
 
 
 // Do not remove any fields.
 // Leave it blank instead as shown below
 
-/* 
-{
-    id: 1,
-    projectName: 'Car Pooling System',
-    projectDesc: '',
-    tags: ['Flutter', 'React'],
-    code: '',
-    demo: '',
-    image: ''
-}, 
-*/
+ 
